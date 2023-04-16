@@ -1,0 +1,111 @@
+body{
+    background-color: whitesmoke;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body{
+    font-family: 'Times New Roman', Times, serif;
+    height: 50%;
+    width: fit-content;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.logo img{
+    width: 50px;
+    height: 50px;
+}
+
+img{
+    width: 250px;
+    height: 250px;
+    border-radius: 20px;
+}
+
+.Intro{
+    padding: 40px;
+}
+#team-member{
+    width: fit-content;
+}
+#team-member a{
+    font-size: larger;
+}
+.member-field{
+    display:inline-block;
+    width:322px;
+    padding: 10px;
+    margin: 15px;
+    border:  2px;
+    border-radius: 10px;
+    background-color:rgb(219, 219, 194);
+    text-align: center;
+
+}
+.member-field img{
+    text-align: center;
+}
+.us{
+    text-align: center;
+    padding: 40px;
+}
+button{
+    border: 5px;
+    border-radius: 10px;
+    
+}
+.Introduction{
+    border:4px dotted blueviolet;
+    border-radius: 75px;
+    padding-bottom: 20px;
+    background-image: url(cs.png);
+    background-repeat: no-repeat;
+    background-size:110%;
+     
+}
+.works h1{
+    border: 2px;
+    display:inline-block;
+    background-color:  rgb(224, 146, 165);
+}
+.development{
+    display: block;
+    border: 2px;
+    padding: 50px;
+    background-color:  rgb(217, 240, 240);
+}
+
+.expertise{
+    border: 2px;
+    padding: 50px;
+    background-color: rgb(217, 240, 240);
+}
+
+.vertical p{
+    border-left: 3px solid blue;
+    height:2px;
+    border-color: black;
+}
+.facebook img{
+    width: 30px;
+    height: 30px;
+    align-self: self-end;
+    align-content: end;
+}
+
+.form{
+    align-self: center;
+    align-items: center;
+    align-content: center;
+}
+
+footer{
+    border: 2px dotted navy;
+}
+
+
+
+
+
+
+
